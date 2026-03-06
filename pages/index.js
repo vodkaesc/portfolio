@@ -240,5 +240,6 @@ const Home = () => (
   </Layout>
 )
 
+
 export default Home
 export { getServerSideProps } from '../components/chakra'
